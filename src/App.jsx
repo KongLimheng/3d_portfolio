@@ -15,7 +15,7 @@ function App() {
   return (
     <Routers>
       <div className="relative z-0 bg-primary">
-        <div className="bg-hero-pattern bg-cover bg-center">
+        <div className="bg-hero-pattern bg-cover bg-center bg-no-repeat">
           <Navbar />
           <Hero />
         </div>
@@ -26,7 +26,7 @@ function App() {
         <Works />
         <Feedbacks />
 
-        <div>
+        <div className="relative z-0">
           <Contact />
           <StarsCanvas />
         </div>

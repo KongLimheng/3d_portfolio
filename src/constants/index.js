@@ -19,9 +19,9 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
+  // carrent,
   jobit,
-  tripguide,
+  // tripguide,
   threejs,
 } from '../assets';
 
@@ -215,8 +215,8 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/',
+    // image: carrent,
+    // source_code_link: 'https://github.com/',
   },
   {
     name: 'Job IT',
@@ -257,8 +257,8 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: tripguide,
-    source_code_link: 'https://github.com/',
+    // image: tripguide,
+    // source_code_link: 'https://github.com/',
   },
 ];
 
